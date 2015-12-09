@@ -15,7 +15,7 @@ Github way (recommended)
 
 Install::
 
-    $ curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
+    $ curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | sh
 
 Update::
 
